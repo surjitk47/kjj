@@ -130,8 +130,8 @@ nav .nav-link:hover {
   width: 130px;
   height:200px;
   border-radius: 10px;
-
 }
+
 .card2Barcode{
   width: 100px;
   height: 100px;
@@ -154,4 +154,25 @@ nav .nav-link:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.userDetails{
+  padding-left: 30px;
+}
+
+@media only screen and (max-width:767px){
+  .card2Img{
+    width: 180px;
+    height:auto;
+    border-radius: 10px;
+  }
+  .paddT{
+    padding-top: 20px;
+  }
+  .card2Barcode{
+    margin: 20px;
+  }
+  .userDetails{
+    padding: 20px 0 0 0;
+  }
 }
