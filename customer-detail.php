@@ -25,6 +25,7 @@
                 </div>
 
 
+
             </div>
 
             <div class="col-lg-9 col-md-7 userDetails">
@@ -100,7 +101,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Samrat Wale
+                        <b class="fs-5">Samrat Wale</b>
                     </button>
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse " data-bs-parent="#accordionExample">
@@ -115,6 +116,21 @@
 
                                     </div>
                                 </div>
+                                <div class="row mt-4">
+                                    <div class="gallery-container">
+                                        <div class="gallery-item" data-index="1">
+                                            <img src="assets/child.jpg">
+                                        </div>
+                                        <div class="gallery-item" data-index="2">
+                                            <img src="assets/child2.jpg">
+                                        </div>
+                                        <div class="gallery-item" data-index="3">
+                                            <img src="assets/child.jpg">
+                                        </div>
+
+                                    </div>
+                                </div>
+
                             </div>
 
                             <div class="col-lg-9">
@@ -174,11 +190,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                    Kabutari 1
+                                        Kabutari 1
                                     </button>
                                 </h2>
                                 <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -238,17 +255,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                                    Kabutari 2
+                                        Kabutari 2
                                     </button>
                                 </h2>
                                 <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -308,17 +327,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                                    Kabutari 3
+                                        Kabutari 3
                                     </button>
                                 </h2>
                                 <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -378,17 +399,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                    Kabutari 4
+                                        Kabutari 4
                                     </button>
                                 </h2>
                                 <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -448,7 +471,8 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -760,7 +784,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMainTwo" aria-expanded="true" aria-controls="collapseMainTwo">
-                        Samrat Wale
+                        <b class="fs-5">Samrat Wale</b>
                     </button>
                 </h2>
                 <div id="collapseMainTwo" class="accordion-collapse collapse " data-bs-parent="#accordionExample">
@@ -834,11 +858,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseKabutariOne" aria-expanded="false" aria-controls="flush-collapseKabutariOne">
-                                    Kabutari 1
+                                        Kabutari 1
                                     </button>
                                 </h2>
                                 <div id="flush-collapseKabutariOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -898,17 +923,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseKabutariTwo" aria-expanded="false" aria-controls="flush-collapseKabutariTwo">
-                                    Kabutari 2
+                                        Kabutari 2
                                     </button>
                                 </h2>
                                 <div id="flush-collapseKabutariTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -968,17 +995,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseKabutariThree" aria-expanded="false" aria-controls="flush-collapseKabutariThree">
-                                    Kabutari 3
+                                        Kabutari 3
                                     </button>
                                 </h2>
                                 <div id="flush-collapseKabutariThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -1038,17 +1067,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseKabutariFour" aria-expanded="false" aria-controls="flush-collapseKabutariFour">
-                                    Kabutari 4
+                                        Kabutari 4
                                     </button>
                                 </h2>
                                 <div id="flush-collapseKabutariFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -1108,7 +1139,8 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1420,7 +1452,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMainThree" aria-expanded="true" aria-controls="collapseMainThree">
-                        Samrat Wale
+                        <b class="fs-5">Samrat Wale</b>
                     </button>
                 </h2>
                 <div id="collapseMainThree" class="accordion-collapse collapse " data-bs-parent="#accordionExample">
@@ -1494,11 +1526,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                    Kabutari 1
+                                        Kabutari 1
                                     </button>
                                 </h2>
                                 <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -1558,17 +1591,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                                    Kabutari 2
+                                        Kabutari 2
                                     </button>
                                 </h2>
                                 <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -1628,17 +1663,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                                    Kabutari 3
+                                        Kabutari 3
                                     </button>
                                 </h2>
                                 <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -1698,17 +1735,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                    Kabutari 4
+                                        Kabutari 4
                                     </button>
                                 </h2>
                                 <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -1768,7 +1807,8 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -2080,7 +2120,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMainFour" aria-expanded="true" aria-controls="collapseMainFour">
-                        Samrat Wale
+                        <b class="fs-5">Samrat Wale</b>
                     </button>
                 </h2>
                 <div id="collapseMainFour" class="accordion-collapse collapse " data-bs-parent="#accordionExample">
@@ -2154,11 +2194,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                    Kabutari 1
+                                        Kabutari 1
                                     </button>
                                 </h2>
                                 <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -2218,17 +2259,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                                    Kabutari 2
+                                        Kabutari 2
                                     </button>
                                 </h2>
                                 <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -2288,17 +2331,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                                    Kabutari 3
+                                        Kabutari 3
                                     </button>
                                 </h2>
                                 <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -2358,17 +2403,19 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                    Kabutari 4
+                                        Kabutari 4
                                     </button>
                                 </h2>
                                 <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body"><div class="row">
+                                    <div class="accordion-body">
+                                        <div class="row">
                                             <div class="col-lg-3">
 
                                                 <div class="row">
@@ -2428,7 +2475,8 @@
                                                 <p><b> Description :</b></p>
                                                 <p>Vaibhav bhai Belgaum alarwad ke rahne wale hai or punjabi kabutar ka shonk karte hai te </p>
                                             </div>
-                                        </div></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
